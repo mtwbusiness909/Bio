@@ -43,10 +43,10 @@ https://mtwbusiness102.github.io/Portfolio-Website/ <!-- THIS WILL STILL LINK TO
 
 <!-- USE MYDFIR PROJECTS, TAKE SCREENSHOTS, and CREATE DIAGRAMS USING DRAW.IO -->
 
-### Personal Projects
+### --- Personal Projects ---
 - <a href="https://github.com/mtwbusiness909/Active-Directory-Homelab-MTW"> Active Directory Lab </a>
 
-### University Projects
+### --- University Projects ---
 - <a href="https://github.com/mtwbusiness102/CSE-3232-PROJECT"> CSE 3232 - Software Requirement Analysis </a>
 - <a href="https://github.com/mtwbusiness102/CSE-3241-PROJECT"> CSE 3241 - Introduction To Databases </a>
 - <a href="https://github.com/mtwbusiness102/ACCTMIS-3620-PROJECTS"> ACCTMIS 3620 - Foundation of Information Systems </a>
