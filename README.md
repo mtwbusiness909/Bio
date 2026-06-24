@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 
 
 ### --- My Background ---
-I'm a fourth-year student at The Ohio State University's Max M. Fisher College of Business, pursuing a B.S. degree in Management Information Systems. My interests lie at the intersection of business and technology, with a particular focus in Cybersecurity / IT Risk Consulting. I'm driven by a strong desire to build a solid foundation of knowledge and skills to support my career ambitions. I'm eager to expand my network and enthusiastic about discovering the opportunities that lie ahead.
 
 Feel free to reach me at mtwbusiness909@outlook.com
 
