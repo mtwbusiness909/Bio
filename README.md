@@ -24,8 +24,6 @@ Here are some ideas to get you started:
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maverickwalker/)](https://github.com/mwbusiness104) -->
 
 
-### --- My Background ---
-
 Feel free to reach me at mtwbusiness909@outlook.com
 
 <!--
@@ -38,7 +36,7 @@ https://mtwbusiness102.github.io/Portfolio-Website/ <!-- THIS WILL STILL LINK TO
 
    
 
-# 👨🏽‍💻 PROJECTS
+# PROJECTS
 
 
 <!-- USE MYDFIR PROJECTS, TAKE SCREENSHOTS, and CREATE DIAGRAMS USING DRAW.IO -->
